@@ -28,4 +28,7 @@ Hidde user@hostname
 comment Line 250 from the theme
 vi ~/.oh-my-zsh/themes/agnoster.zsh-theme
 #  prompt_context
+
+# Apply the changes
+source ~/.zshrc
 ```
