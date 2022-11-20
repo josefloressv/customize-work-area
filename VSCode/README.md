@@ -29,3 +29,6 @@ Manage > File Icos
 Search in Marketplace: `tag:icon-theme`\
 I choosed `Material Icon Theme` and another good theme `vscode-icons`
 
+## GitHub Settings
+- [x] GitHub: Git Authentication
+- GitHub: Git Protocol `ssh` or `https (default)`
