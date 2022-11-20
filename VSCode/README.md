@@ -22,6 +22,7 @@ Terminal › Integrated › Default Profile: Osx > erminal.integrated.shellArgs.
 | ID | Name | Description |
 |----|------|-------------|
 | GitHub.vscode-pull-request-github | GitHub Pull Request and Issues | Review and manage your GitHub Pull Request and issues directly in VS Code |
+| - | Markdown All in One | - |
 
 ## Themes and Icons
 Manage > File Icos
