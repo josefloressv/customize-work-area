@@ -21,7 +21,8 @@ source ~/.zshrc
 Fonts
 https://github.com/powerline/fonts/tree/master/DroidSansMono
 
-Install in `iTerm2 > Preferences > Profiles > Text> Font` and choose `Droid Sans Mono for Powerline`
+Install in `iTerm2 > Preferences > Profiles > Text > Font` and choose `Droid Sans Mono for Powerline`
+
 
 Hidde user@hostname
 ```bash
@@ -32,3 +33,6 @@ vi ~/.oh-my-zsh/themes/agnoster.zsh-theme
 # Apply the changes
 source ~/.zshrc
 ```
+
+Default Widndows Size
+`iTerm2 > Preferences > Profiles > Windows > Font` and set `Colums: 200, Rows:30`
