@@ -23,7 +23,9 @@ https://github.com/powerline/fonts/tree/master/DroidSansMono
 
 Install in `iTerm2 > Preferences > Profiles > Text> Font` and choose `Droid Sans Mono for Powerline`
 
-Remove username@host
+Hidde user@hostname
 ```bash
-
+comment Line 250 from the theme
+vi ~/.oh-my-zsh/themes/agnoster.zsh-theme
+#  prompt_context
 ```
