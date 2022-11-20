@@ -17,3 +17,8 @@ Terminal › External: Osx Exec\
 
 Terminal › Integrated › Default Profile: Osx > erminal.integrated.shellArgs.osx\
 `zsh`
+
+## Extensions
+| ID | Name | Description |
+|----|------|-------------|
+| GitHub.vscode-pull-request-github | GitHub Pull Request and Issues | Review and manage your GitHub Pull Request and issues directly in VS Code |
