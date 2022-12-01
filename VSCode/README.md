@@ -22,6 +22,9 @@ Terminal › Integrated › Default Profile: Osx > erminal.integrated.shellArgs.
 Terminal › Integrated: Right Click Behavior\
 `copyPaste`
 
+Terminal › Integrated: Copy On Selection\
+- [x] Controls wheter text selected in the terminal will be copied to the clipboard.
+
 ## Extensions
 | ID | Name | Description |
 |----|------|-------------|
