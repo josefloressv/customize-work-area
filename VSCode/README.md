@@ -7,7 +7,8 @@ code --list-extensions --show-versions
 code --list-extensions --category snippets
 ```
 
-## Set default zsh & iTerm 2
+## Terminal
+Set default zsh & iTerm 2
 
 Editor: Font family\
 `Droid Sans Mono for Powerline, Menlo, Monaco, 'Courier New', monospace`
@@ -17,6 +18,9 @@ Terminal › External: Osx Exec\
 
 Terminal › Integrated › Default Profile: Osx > erminal.integrated.shellArgs.osx\
 `zsh`
+
+Terminal › Integrated: Right Click Behavior\
+`copyPaste`
 
 ## Extensions
 | ID | Name | Description |
